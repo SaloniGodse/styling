@@ -1,0 +1,31 @@
+h1 {
+    color:cornflowerblue;
+}
+
+.header{
+    background-color:navajowhite;
+    border:solid navy;
+    text-align: center;
+    justify-content: center;
+   
+}
+.meAndProjects{
+    display:flex;
+    justify-content: center;
+}
+
+.discription{
+    text-align: center;
+    justify-content: center;
+}
+
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
